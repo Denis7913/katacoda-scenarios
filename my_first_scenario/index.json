@@ -2,7 +2,7 @@
   "title": "My first scenario",
   "description": "a simple frist effort",
   "difficulty": "Beginner",
-  "time": "60 minutes",
+  "time": "5 minutes",
   "details": {
     "steps": [
       {
@@ -29,6 +29,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "powershell"
+    "imageid": "ubuntu:2004"
   }
 }
