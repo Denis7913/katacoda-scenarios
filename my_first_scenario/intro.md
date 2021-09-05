@@ -1,13 +1,11 @@
 # Welcome
 
-This is my first sceanrio
+This is my first ever scenrio and how I did it.
 
-This is the **Intro** 
-
-It has 3 steps 
-- step 1
-- step 2
-- step 3
-
-And it has a wrapup final page as well
-
+This will walk you through the steps:
+- Set up a git repo with a web hook to katacoda
+- Download the katacoda cli
+- Clone the repo to you local git repo
+- Use the katacoda cli to create content/structure in your repo
+- Push content to the katacoda repo 
+- Your course is ready
