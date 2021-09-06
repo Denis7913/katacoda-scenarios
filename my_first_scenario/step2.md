@@ -3,6 +3,4 @@
 - task 1
 - task 2
 
-goodbye
-
-{{snap install powershell --classic}} 
+`echo "hello world"`{{execute}}
