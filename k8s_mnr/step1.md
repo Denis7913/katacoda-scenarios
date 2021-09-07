@@ -1,7 +1,11 @@
-the kubernetes environment has been created and now you can add a simple flink pod
+Start up your cluster
+`launch.sh` {{execute}}
 
 
-`kubect run myflink --image=flink`{{execute}}
+The kubernetes environment has been created and now you can add a simple flink pod
+
+
+`kubectl run myflink --image=flink`{{execute}}
 
 check that the pod is running
 
