@@ -1,5 +1,5 @@
 Start up your cluster
-`launch.sh` {{execute}}
+`launch.sh`{{execute}}
 
 
 The kubernetes environment has been created and now you can add a simple flink pod
