@@ -1,6 +1,6 @@
 {
   "title": "My first scenario",
-  "description": "a simple kubernetes set up",
+  "description": "a very simple kubernetes set up",
   "difficulty": "Beginner",
   "time": "5 minutes",
   "details": {
